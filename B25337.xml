@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the beginnings and proceedings of the rebellion in the county of Cavan within the province of Ulster in Ireland, from the 23 of October, 1641 untill the 15 of June, 1642 : whereof hitherto nothing hath been reported : whereunto is added, the acts and twenty nine conclusions of that great and generall congregation of archbishops, bishops, and others, all of the romish clergy in Ireland, met in the city of Kilkenny in that kingdom, on the 10, 11, and 13 of May 1642 : concerning the present state of the warre in Ireland, and for the ordering of matters appertaining to the same, both there, and by negotiation with forraign princes : written, set forth, and presented to the most honourable the Houses of Parliament / by Henry Iones ... ; there is also added a letter written from Dublin, August 4, 1642, containing some late and very remarkable passages in Ireland.</title>
+            <author>Jones, Henry, 1605-1682.</author>
+         </titleStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25337</idno><idno type="EEBO-CITATION">12252990</idno>
+  <idno type="VID">197453</idno>
+  <idno type="EEBO-PROQUEST">2248550870</idno>
+  
+            <idno type="STC">Wing J944</idno>
+            <idno type="OCLC">12252990</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197453)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E110, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the beginnings and proceedings of the rebellion in the county of Cavan within the province of Ulster in Ireland, from the 23 of October, 1641 untill the 15 of June, 1642 : whereof hitherto nothing hath been reported : whereunto is added, the acts and twenty nine conclusions of that great and generall congregation of archbishops, bishops, and others, all of the romish clergy in Ireland, met in the city of Kilkenny in that kingdom, on the 10, 11, and 13 of May 1642 : concerning the present state of the warre in Ireland, and for the ordering of matters appertaining to the same, both there, and by negotiation with forraign princes : written, set forth, and presented to the most honourable the Houses of Parliament / by Henry Iones ... ; there is also added a letter written from Dublin, August 4, 1642, containing some late and very remarkable passages in Ireland.</title>
+                  <author>Jones, Henry, 1605-1682.</author>
+                  <author>Culme, Hugh, 1599 or 1600-1644.</author>
+               </titleStmt>
+               <extent>4, 48 [i.e. 40] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Godfrey Emerson,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>August 11, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter from Dublin signed: Hugh Culme.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197453:1"/>
+            <p>A REMONSTRANCE OF The beginnings and proceedings of the Rebellion in the County of <hi>Cavan,</hi> within the Province of ULSTER in IRELAND, From the 23. of <hi>October,</hi> 1641. untill the 15. of <hi>June,</hi> 1642. Whereof hitherto nothing hath been reported.</p>
+            <p>Whereunto is added, The Acts, and twenty nine Conclusions of that great and generall Congregation OF Archbishops, Bishops, and others, All of the Romish Clergy in IRELAND, met in the City of <hi>Kilkenny</hi> in that Kingdom, on the 10. 11. and 13. of <hi>May</hi> 1642.</p>
+            <p>Concerning the present State of the Warre in IRELAND, and for the ordering of matters appertaining to the same, both there, and by Negotiation with forraign Princes.</p>
+            <p>Written, set forth, and presented to the most Honourable the Houses of Parliament, By <hi>Henry Iones,</hi> D D.</p>
+            <p>There is also added a Letter written from <hi>Dublin, August</hi> 4. 1642. Containing some late and very remarkable passages in IRELAND.</p>
+            <p>
+               <hi>August</hi> 11. <hi>London,</hi> Printed for <hi>Godfrey Emerson.</hi> 1642.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:197453:2"/>
+            <pb n="3" facs="tcp:197453:2"/>
+            <head>The Copy of a Letter from <hi>Dublin,</hi> dated <hi>August.</hi> 4. 1642.</head>
+            <opener>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have been lately at <hi>Droghedah,</hi> about a Lievtenants place that was promised me; between that and <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> the Rebels did fight with us; there were of ours, but seven of Captain <hi>Marows</hi> Troop, who were sent as a Convoy for my Lord <hi>Blaney</hi> his sonne, Some of their follow<g ref="char:EOLhyphen"/>ers, and my self: The enemy was above fourscore Horse; we charged them four severall times, and made them flee; We have two severall Armies gone out of <hi>Dublin,</hi> one towards <hi>Kells,</hi> be<g ref="char:EOLhyphen"/>ing the way to the County of <hi>Cavan;</hi> The other to the County of <hi>Kildare:</hi> They have taken severall Castles, and left Garisons in them. The Rebels dare not give our men battell; But we hear, That they are very strong in <hi>Munster,</hi> And most of their forces of <hi>Meath, Monaghan, Tyrone, Fermanagh,</hi> and <hi>Armagh,</hi> are in the County of <hi>Cavan,</hi> where is their whole strength that can look upon these parts, and there are they strongly fortified. They have burnt all the Towns a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Castles, not sparing their own dwel<g ref="char:EOLhyphen"/>lings, in the Counties of <hi>Monaghan,</hi> and <hi>Armagh.</hi> Here may appear how small their confidence is, while they burn their holds. The Scotch Army is within three miles of <hi>Dundalk,</hi> and hath given the enemy many overthrows, So as they dare not meet them any more. The <hi>Scots</hi> have taken from the Rebels about <hi>6000.</hi> Cows, and as many Horses of all sorts. There were <hi>2500.</hi> Cows by the enemy, driven away from the <hi>Scots,</hi> which fell among the English Army; So that what doth escape the one, the other doth
+<pb n="4" facs="tcp:197453:3"/> take. They would be quickly subdued, if all things were right in <hi>England.</hi> Here is great want of money, whereby the Souldiers are ready to mutine. There is one Captain <hi>Vaughan</hi> commanding a Troop of Horse, who is Garison'd in <hi>Dundalk;</hi> he with forty Musketti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, and his Horse, did this last week go forth in the night to Scot<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and pillage abroad; being about three miles from <hi>Dun<g ref="char:EOLhyphen"/>dalk,</hi> he met an Irish woman, whom he threatned to kill, if she told him not whence she came; She promised, so her life were spa<g ref="char:EOLhyphen"/>red, to do good service, and enformed him that about seven miles thence, there was a very strong Castle, wherein were <hi>300.</hi> men well provided, and the place well stored with pillage; and that constantly, about one hour before day, the chiefest man among them went out to his devotions in a close adjoyning to the Castle, having the Keyes of the Castle about him. The Captain laid for him, and found to to be according to his intelligence; he suddenly laid hold on the man, whom having made sure, he opened the Castle Gate, and with his Muskettiers entred, where the Rebels being surprised, they were all put to the sword, not one man of ours being lost. Here they found good store of good pillage. This is all the News I have for the present, &amp;c.</p>
+            <closer>
+               <signed>Your loving Brother <hi>Hugh Culme.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:197453:3"/>
+            <head>
+               <hi>The Beginning and Progresse of the REBELLION In the County of CAVAN, in the Pro<g ref="char:EOLhyphen"/>vince of ULSTER in IRELAND,</hi> From <hi>OCTOBER 23. 1641.</hi> unto <hi>JUNE 15. 1642.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He County of <hi>Cavan,</hi> whereinto no part of our Forces hath hitherto made any the least impression, is at this time the Receptacle of all the Rebellious <hi>Lords, Gentlemen,</hi> and other their Adherents, who have been for<g ref="char:EOLhyphen"/>ced out of the Counties of <hi>Dublin, Meath, Louth, Monaghan, Fermanagh,</hi> and els<g ref="char:EOLhyphen"/>where thereabout, where <hi>our Armies</hi> have, by Gods power, victoriously marched. From hence were sent out the first of that Rebellious rout, who durst as<g ref="char:EOLhyphen"/>sume the boldnesse, by leaving their own seats, to make incursions upon us, over-running the <hi>County</hi> of <hi>Meath,</hi> and surprising the <hi>Towns</hi> of <hi>Trim, Kelles, Navan, Ardbraccan, Athboy,</hi> and thence proceeding to the <hi>siege</hi> of <hi>Drogheda:</hi> And from <hi>this place,</hi> it is feared, they may again shew themselves, to our disadvantage, if it be any longer, as it hath been hitherto, neglected. Which, that it may not, I have herein offered a brief Discourse of the strength and proceedings of the <hi>Rebel</hi> in <hi>that part,</hi> from the 23. of <hi>October,</hi> 1641. untill the 15. of <hi>June,</hi> 1642. purposing further to inlarge it in many remarkable passages in the <hi>generall Treatise,</hi> that shall hereafter (God willing) be set forth, of the <hi>whole progresse of that War throughout the whole Kingdom,</hi> as <hi>leasure</hi> and <hi>encouragement</hi> shall be thereunto afforded.</p>
+            <pb n="2" facs="tcp:197453:4"/>
+            <p>The 23. of <hi>October,</hi> 1461. was the <hi>Day</hi> set down by the <hi>Conspi<g ref="char:EOLhyphen"/>rators,</hi> for the <hi>generall undertaking and practice of that most horrid Rebellion;</hi> yet did it not, notwithstanding, in all places appear at once; partly out of the backwardnesse of some, who would first in the proceedings of others, see how far, and with what security they might put themselves upon that work; partly by a fore-laid com<g ref="char:EOLhyphen"/>pact, that <hi>some</hi> (they especially of the Iri<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lords, and others in the Counties of <hi>Dublin, Meath, Louth,</hi> and some other parts of <hi>Lein<g ref="char:EOLhyphen"/>ster</hi>) pretending to joyn for the publike service against the <hi>Ʋlster</hi> Rebells, as did their Ancestors in the former Rebellions, they might procure <hi>Arms</hi> out of the <hi>store at Dublin,</hi> which they wanted, and w<seg rend="sup">ch</seg> might after be imployed against us. This some obtained, though but sparingly; for the Lords Justices and Councel finding their own weaknesse for the present conceived it not expedient, by discovering of suspition, to give them occasion at that time to break out, against whom we might after if they did, be better prepared. Some also were the longer kept off from declaring themselves, by their failing in the first and main <hi>Act,</hi> the surprising of the <hi>Castle of Dublin;</hi> and others being for some while startled at the Resolution of the <hi>Hono<g ref="char:EOLhyphen"/>rable houses of Parliament in England,</hi> for the sending into <hi>Ireland</hi> great and speedy supplies of men and money.</p>
+            <p>Yet if any were backward, the <hi>Ʋlster Rebels</hi> were not; and among them, none more forward then the Irish in the <hi>County of Cavan,</hi> consisting of the <hi>Septs,</hi> of the <hi>Reilys</hi> in chief, and the <hi>mac Gawzans, Bradys, Siridens, mac Karvans,</hi> and <hi>Macabes,</hi> with others of infe<g ref="char:EOLhyphen"/>riour note. Of <hi>these, Philip mac Hugh mac Shane O Rely</hi> was cho<g ref="char:EOLhyphen"/>sen for chief Commander, he being head of the <hi>Sept</hi> of the <hi>O Rely's,</hi> and in <hi>Parliament</hi> appearing as <hi>Knight of the Shire</hi> for that <hi>County.</hi>
+            </p>
+            <p>But <hi>he</hi> who first appeared as <hi>head</hi> in this Action, was the then <hi>high-Sheriff</hi> of <hi>that County,</hi> formerly writing himself <hi>Miles Reily,</hi> but having with the shaking off of his Obedience to the <hi>English Government,</hi> cast off what might in his <hi>Name</hi> sound <hi>English,</hi> he is now known by the Name of <hi>Mulmore mac Edmond O Reily.</hi>
+            </p>
+            <p>This desperate <hi>yong man</hi> first lead the way; and on the <hi>Saturday</hi> in the afternoon being the 23. of <hi>October,</hi> 1641. by vertue of <hi>his Office</hi> he raised the <hi>Posse comitatus,</hi> pretending that some Rebells were either already, or ready to break in upon the Country from the adjoyning Counties; his first work was upon this pretence, and
+<pb n="3" facs="tcp:197453:4"/> for the publike service, to gather in what Arms were in the hands of the British who dwelt scatteringly, they ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by so wanting the ad<g ref="char:EOLhyphen"/>vice and assistance of each other. All this was in that part of the country where he dwelt, done almost in a moment by his Bailiffs &amp; Agents to that end disposed in all plac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; he himself going about wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re he conceived his presence was most requisite for this work; whereby all that part of the country was suddenly disarmed, exce<g ref="char:EOLhyphen"/>pting such places of strength, and persons of note, whom he would not acquaint with this pretence, lest they might find out the feat. All this was done without any shew of violenee o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> injury to any, either in word or action; many offering up their arms, and applauding the care and diligence of the Sheriff for the defence of the country, o<g ref="char:EOLhyphen"/>thers not yet medled withall, nothing doubting their own security, while they saw others no way (as they did conceive) damnified.</p>
+            <p>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Rebell had soon unmasked himself, when within a few hours, the same day, he first entred the Castle of <hi>Farnam,</hi> within one mile of the Town of <hi>Cavan,</hi> and thence took out Arms, Pikes, and Musqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, but none fixed so many as might arm more then 50 men; and forthwith with his rabble of followers posted to <hi>Cloghouter,</hi> 3 miles thence, where, under colour of accustomed friendship, he im<g ref="char:EOLhyphen"/>braced, but there taking prisoner <hi>Arthur Culme</hi> Esquire, Captain of his Majesties fort of <hi>Cloghouter</hi> (a fort of great strength, environed with a deep water, and distant from shore more then Musquet shot) The Captain he laid up in the <hi>oastle,</hi> committing both to the charge of <hi>Owen ô Rely,</hi> w<seg rend="sup">th</seg> the title of <hi>Constable of the castle of Cloghouter.</hi> Next day being the 24, this <hi>Sheriff</hi> with what forces he could raise on the sudden in that part of the County, proceeded to meet with <hi>Philip mac Hugh O Reyly,</hi> the chief Comander, and with his forces preparing to make their approaches to <hi>Belturbet;</hi> which, though it were not the <hi>County Town,</hi> yet was it the most populous, and of all others the best <hi>English Plantation</hi> in that County, there being sup<g ref="char:EOLhyphen"/>posed to have been at that time about 1500 of all sorts, of all which 4 or 500 were men for service, were th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y armed accordingly.</p>
+            <p>This was by the Rebels conceived to be first secured, lest discover<g ref="char:EOLhyphen"/>ing their intent they might make head, and so hinder their proceed<g ref="char:EOLhyphen"/>ings elswhere; yet could they not come so soon, neither did they carry the matter with a pretext so fair, but that they were found out; for besides the report of taking <hi>Captain Culme</hi> prisoner, and
+<pb n="4" facs="tcp:197453:5"/> securing the fort for themselves, which no way forted with what at first they had given out, they were fully discovered by many pil<g ref="char:EOLhyphen"/>laged and stript <hi>English,</hi> who out of the neighbour-County of <hi>Fer<g ref="char:EOLhyphen"/>managh</hi> had escaped the fury of that monster of men, <hi>Roury mac Guyre,</hi> brother to the Lord <hi>mac Guyre,</hi> and head of the Rebells in that County, who had the same time been on the same work that were these in the County of <hi>Cavan.</hi> To which also was added, that Sir <hi>Francis Hamilton</hi> Knight and Baronet, having received intelli<g ref="char:EOLhyphen"/>gence of these proceedings, had sent unto <hi>Belturbet,</hi> and <hi>Cavan,</hi> desiring they would stand upon their guard, and not be deluded with pretences, as were others. After sending particularly unto <hi>Ca<g ref="char:EOLhyphen"/>ptain Robert Baily,</hi> who commanded a <hi>foot company</hi> in the Town of <hi>Cavan,</hi> and to <hi>Captain Richard Ryves,</hi> commanding Sir <hi>John Borlases troop,</hi> and garrison'd in <hi>Belturbet;</hi> that they would draw to him towards <hi>Keilay</hi> a place of strength, that joyning to them the <hi>British</hi> about <hi>Belturbet, Cavan,</hi> and elswhere, they might in an <hi>uni<g ref="char:EOLhyphen"/>ted body</hi> make <hi>head</hi> against the <hi>Rebell;</hi> had this course been taken, there might have been made up a body of 1000 men, if perhaps that number would not rather have doubled by the coming unto them of such British as fled to the County from <hi>Fermanagh</hi> in very great multitudes; hereby might the proceedings of that Rebell have been at a stop, if not wholly defeated, and they kept in work at home, so as they should not (as they did after) intend the sending of forces to <hi>Droghedah,</hi> which they could not have spared. But why this did not take, I cannot answer. If it be not attributed to the sudden confusion of all things, the time admitting no delibera<g ref="char:EOLhyphen"/>tion, and this proposition from Sir <hi>Francis Hamilton</hi> being words at distance, wanting the presence of such as might give them a full discussion, and answer the objections that might be brought unto them. Captain <hi>Ryves</hi> upon the first hearing of these tumults made ready of his Troop as many as were not dispersed in the Country; for the present making up the number of 30. then did he call upon the <hi>Townsmen</hi> of <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lturbet</hi> to stand upon their defence, which they prepared with all forwardnesse to do; untill that <hi>Philip mac Hugh O Reily,</hi> and other heads of the Rebels had sent to <hi>Belturbet,</hi> professing themselves ready for their defence against the incursions of <hi>Roury mac Guyre</hi> in the next County, who threatned (as they gave out) to break in upon them, they promising to put a Guard in<g ref="char:EOLhyphen"/>to
+<pb n="5" facs="tcp:197453:5"/> the Town for their security, without the least prejudice to any of the Inhabitants, either in person or goods; the Town also sending out some to treat with the Rebels, whom they found to intend more then was pretended; but doubting their own strength for opposi<g ref="char:EOLhyphen"/>tion, the place being not defencible, the Church being all the guard it had, and hearing the Rebels to be about 4000 strong: Here upon <hi>Captain Ryves</hi> conceiving it time for him to provide for his secu<g ref="char:EOLhyphen"/>rity with those few men he could on the sudden get together, posted towards <hi>Cavan,</hi> the Country and time of the yeer being not for <hi>ser<g ref="char:EOLhyphen"/>vice of horse,</hi> and knowing the aim of the enemy to be chiefly for surprising him and his <hi>arms.</hi> From <hi>Cavan</hi> after some little stay, he set forward by <hi>Dalys bridge,</hi> and so recovered <hi>Ardbraccan,</hi> a strong Castle of the Bishop of <hi>Meaths,</hi> 22 miles from <hi>Dublin,</hi> where, by command from the Lords Justices he remained for securing that part of the Country; he being thereby reserved for those Honorable services which since that time he hath done, in them much deser<g ref="char:EOLhyphen"/>ving of the publike.</p>
+            <p>The treaty between the <hi>Townsmen</hi> of <hi>Belturbet</hi> and the <hi>Rebels</hi> had now proceeded so far that they put themselves into the prote<g ref="char:EOLhyphen"/>ction, and under that guard placed there by <hi>Philip O Reyly,</hi> having first given up their <hi>Arms,</hi> so as now they rested wholly at their mercie, yet violence for that time not being offered unto any.</p>
+            <p>
+               <hi>Belturbet</hi> being thus secured for their own, they did next look towards <hi>Cavan,</hi> the <hi>County Town,</hi> and 7 miles from <hi>Belturbet;</hi> the place was not defencible, the most part of the Inhabitants also being Irish and Papists; so that <hi>Captain Bayly</hi> was enforced to be<g ref="char:EOLhyphen"/>take himself unto the <hi>County Gaol,</hi> the place of greatest strength that was there, yet indeed of no strength to oppose an enemy. His company at the full was but 50. of which many were then ab<g ref="char:EOLhyphen"/>sent, and the most of those that were present were Irish, upon whom he could not relye: besides, that he wanted powder, having no more, or not much more then his Bandeleers to trust unto. The enemy came in with 3000 men, besides a confused multitude of others, followers of the Army, against whom the Town could make no resistance, and the <hi>Castle</hi> was by them summoned, but all partly rejected by the Captain, thereby more to make triall of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> resolutions, and to finde out the proceedings of the enemy, then out of any confidence he had of any resistance that by him could be
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:197453:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:197453:6"/>
+               <pb n="6" facs="tcp:197453:7"/> made. <q>The same countenance he held that 25. and the following 26. of <hi>October</hi> untill seeming to be overcome with the importunity of some friends, sent to treat with him, rather then out of any diffi<g ref="char:EOLhyphen"/>dence of his own condition, the parly was entertained the 27 day, &amp; the place yeelded on composition that the Arms of the company should passe away, and be in the Captains custody within his own house, about one mile distant from the <hi>Cavan,</hi> and that the Capt in should neither send them, nor joyn himself with Sir <hi>Francis Hamilton</hi> at <hi>Keilagh,</hi> Sir <hi>James Craig</hi> at <hi>Crohan,</hi> both not far off, neither with any other British within the County, neither that the Arms should be carryed out of the County.</q>
+            </p>
+            <p>On the 29. the <hi>Sheriff</hi> with 3000 men passing by the Castle of <hi>Belanenagh,</hi> where I then lived, and which I did maintain from the 23. untill then, did require the surrender of the place, which not being to be maintained, in many respects was yeelded, I being with mine committed to the charge of <hi>Philip mac Mulmore O Reily, Ʋncle</hi> to the <hi>Sheriff,</hi> living about a mile thence, and a Garri<g ref="char:EOLhyphen"/>son placed in my Castle.</p>
+            <p>Thus the whole County was taken in, within lesse then a week, excepting the <hi>Castles</hi> of <hi>Keilagh,</hi> belonging to Sir <hi>Francis Hamil<g ref="char:EOLhyphen"/>t n,</hi> and of <hi>Crohan,</hi> wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Sir <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames Craig</hi> lived, these being out of the way; being also very strong for defence, well manned, and well stored with Arms, the Rebels reserved for their better leasure to look after.</p>
+            <p>Now did the time fitly serve to declare themselves; now were all the English whose dwellings were dispersed in the Country, and had bin hitherto spared turned out of doors, robb'd of all, and stript naked; now did they fall upon the English at the <hi>Cavan,</hi> who till then, though living there in fear, yet not expelled; now began they to look again upon <hi>Belturbet,</hi> the Captains giving way to the Gar<g ref="char:EOLhyphen"/>rison to oppresse the Inhabitants; they complaining of breach of the treaty, were by the <hi>Chief</hi> answered, that it was not in their power to restrain the rude Souldier, who would not be under any command, and therefore advised them rather to prepare for their leaving the place, and to retire whither they pleased, which they might (said they) do with all security, taking with them of their own what they pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ased, promising them a safe Convoy out of the County.</p>
+            <pb n="7" facs="tcp:197453:7"/>
+            <p>This was by most conceived to be a motion not to be refused, for they found the place weary of them, and that to stay, were but to give themselves up to spoil; especially seeing that contrary to the Quarter unto them given, their Shops were broken up, and the best of their goods already in the hands of their enemies, pretending by making up an Inventory of them, and putting them into the cu<g ref="char:EOLhyphen"/>stody of responsible men, they might be secured from the rapine and spoil of the rude Souldier.</p>
+            <p>They therefore prepared for their journey, relying (shall I say) on the publike Faith given unto them by the chief Commander, and the rest of the Captains, whereby many found themselves, as in other respects, so in this deceived, that upon promise they might safely car<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y away what conveniently they might of the choice of their goods (a policie used by the enemy for possessing themselves of what had been hidden) some did dig up what they had buried, and packed up what was most esteemed of them. Thus did the <hi>Lady Butler</hi> with her family, and about 1500 souls, men, wo<g ref="char:EOLhyphen"/>men and c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ildren, set forth together, leaving the Town, and put<g ref="char:EOLhyphen"/>ting themselves under the Convoy of a number no way considera<g ref="char:EOLhyphen"/>ble for their secu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity.</p>
+            <p>Their way lay through the Town of the <hi>Cavan,</hi> where was a Garrison of the Rebels, with whom, in all probability, this their treacherous Guard had held correspondencie: for (passing by ma<g ref="char:EOLhyphen"/>ny hard usages of these poor creatures, from their leaving <hi>Belturbet</hi> till then) as they had a little passed the Town of <hi>Cavan,</hi> they were beset and rifled, their Convoy seeming at first to be overborn with number, but they with the rest fell to the same work; whereby some were killed, all stripped, some almost, others altogether naked, not respecting women and sucking infants; the <hi>Lady Butler</hi> faring herein as did others. Of these miserable creatures, many perished by famine, and oold, travelling naked through frost and snow, the rest recovering <hi>Dublin,</hi> where now many of them are among o<g ref="char:EOLhyphen"/>thers, in the same distresse for bread and cloaths.</p>
+            <p>The whole County being now, for the most part, in their own power, they spent the time in appointing Officers, mustering, and exercising their men; in the mean time consulting how to put a fair glosse (if it were possible) upon all that had been done.</p>
+            <p>To this purpose an <hi>Humble Remonstrance</hi> (for so were they plea<g ref="char:EOLhyphen"/>sed
+<pb n="8" facs="tcp:197453:8"/> to entitle it) was drawn up, setting forth the grievances of that County, and of the whole Kingdom, the pretended causes of their rising up in Arms; desiring the <hi>Lords Justices and Councell</hi> (unto whom it was to be presented) that from their Lordships they might be recommend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to His Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stie; That satisfaction to those their desires being given, they promised reparation to all the disspoiled British, by a generall contribution over the Kingdom, if their own <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tates su<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not thereunto; professing much detestation of the cruelties and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obberies exercised by the rude multitude, whom (said they) they could not rule. All which was subscribed by <hi>Philip mac Hugh</hi> their Generall, with others their prime Commanders, and Gentry of that County.</p>
+            <p>Their next consideration was, whom they should imploy in that s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvice; for none of their own had confidence sufficient to appear in that cause. They had first fixed upon <hi>Doctor Bedell Bishop of Kil<g ref="char:EOLhyphen"/>more;</hi> but he f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irly excused himself, first by his Age, whereby he was unwieldy, and not fit for that expedition which they expected in that Action; then, that many of the poor English of <hi>Belturbet,</hi> who had retired to him, and depended upon what security and sub<g ref="char:EOLhyphen"/>sistence he could give them, would by his absence be exposed to want and other injuries. This they interpreted as a put off; yet did the gravity and respect which his presence did command, restrain <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem from what some in their Councell had before propounded, in case he should give out, and decline that service for them. I was next in their eye, being in their hands, and designed and command<g ref="char:EOLhyphen"/>ed upon this imployment. I must confesse, it was such as was in every respect improper for me to undergo; but weighing first what a deniall might produce, by what was threatned to another, where<g ref="char:EOLhyphen"/>of he hath since found the effects: but chiefly considering, that thereby I might gain the opportunity of laying open to the Lords, what I had observed in the proceedings of that County, which might very much conduce to the publike, and which by Letters could not so safely be delivered; I did therefore accept of that im<g ref="char:EOLhyphen"/>ployment, and after ten dayes stay in <hi>Dublin,</hi> returned with an An<g ref="char:EOLhyphen"/>swer. Return I must, my wife and children remaining for hosta<g ref="char:EOLhyphen"/>ges. The <hi>Answer,</hi> was fair; but generall and dilatory, sutable to the weak condition of affairs in <hi>Dublin,</hi> the safety whereof wholly de<g ref="char:EOLhyphen"/>pending on the gain of time.</p>
+            <pb n="17" facs="tcp:197453:8"/>
+            <p>I do assure my self <hi>These Remomstrants</hi> did not exp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct any other Answer; and it may be would have been very unwilling to receive that satisfaction they did pretend to be contented withall; their hopes alrea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring at an higher pitch: and very probable it is, That their said Remonstrance tended rather to winne upon the peo<g ref="char:EOLhyphen"/>ple, whose cause they pleaded, then to give any reasonable accompt or satisfaction to the Lords, concerning th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir proce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dings. If here<g ref="char:EOLhyphen"/>unto this be not also added, That all this was but to lull all them in <hi>Dublin</hi> in security, with a treaty of peace, while they intending nothing lesse, were even then preparing for Warre, and ready to set forward for <hi>Dublin,</hi> where they had overtaken me, had I staid but ten dayes more, as may appear by the sequell.</p>
+            <p>For no sooner was I returned into the County of <hi>Cavan,</hi> but that I found all in Arms, and Proclamation to have been made, that all from the A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of sixteen to sixty should appear on Munday after as <hi>Virginia,</hi> a place distant from <hi>Cavan</hi> twelve miles, and in the way to <hi>Dublin.</hi> It being already highway-news, that out of that mul<g ref="char:EOLhyphen"/>titude, they purposed to frame the Body of an Army of about 3000, who joyning with proportionable numbers out of the Coun<g ref="char:EOLhyphen"/>ties of <hi>Fermanagh</hi> and <hi>Monaghan,</hi> were to advance forthwith to<g ref="char:EOLhyphen"/>wards <hi>Dublin.</hi>
+            </p>
+            <p>Being also alighted at the House of <hi>Philip mac Mulmore ô Reyly,</hi> whereunto I had been confined; I found one every way appointed as a Trooper, calling himself by the name of <hi>Dowdall,</hi> but being a Fryar; who came thither from <hi>Dublin,</hi> and was sent (as he al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed) from thence to hasten their marching away, assuring them of a strong party in that City; besides those in that Garison (f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r so it was ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her to be esteemed then an Army) for defence of <hi>Dublin;</hi> whe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in were many of the Irish listed, and such as would revolt unto them with with their Arms.</p>
+            <p>I saw how contrary this their proceeding was to that p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ofession of theirs in their Remonstrance, and the promise made to m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the undertaking that service for them, assuring me, and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>siring I should assure the Lords from them, That there should be a cessation of all thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, untill the return of their Lordships Answer. I found how dangerous in these respects, this sudden undertaking might be to the Lords, who might be surprised, fearing no such da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger from
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:197453:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:197453:9"/>
+               <pb n="18" facs="tcp:197453:10"/> those parts among all others. I knew by what I had observed, how unprovided both for men and victualls <hi>Dublin</hi> was at that time, whereby should the enemy advance according to his designe, all might have run an apparant hazard. And that which added to all this That neither had I any sure hand by whom to send, neither could I give any t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mely notice of these Councels, my coming into the County being on Saturday in the afternoon, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y setting for<g ref="char:EOLhyphen"/>ward on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Munday morning next following. And lastly, that in all this, I wanted a second with whom to advice hereupon.</p>
+            <p>But taking H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rse, I poasted to <hi>Cavet</hi> a place with<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n one mile of me, where dwelt the <hi>Sheriff,</hi> one of the chiefest Rebels, at whose h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use, at that very instant, their grand Councell was met. That which I propounded to my self, was to end<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avour all the means I c<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d for <hi>diverting them from Dublin,</hi> by putting them on upon some o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her servi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more easie, and of little lesse cons quence: That also <hi>time might <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> by either de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying them some while in the Coun<g ref="char:EOLhyphen"/>ty, while I pret<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the giving in an accompt of my Agency at a g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerall meeting of the Gentleman, when and where I should be appointed, or otherwise by finding them work some other way, without ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>right towards <hi>Dublin.</hi>
+            </p>
+            <p>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving alighted at the Sheriffs door, he took me aside into his Garden, from whom I soon un <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stood how little respect would be given to the Answer I was to deliver; no part w ereof I would impart to him untill I were pub ikely called upon to declare my self, only for the generall, that it was as good as he could expect from the Lords in <hi>Ireland.</hi>
+            </p>
+            <p>Therefore declining that, I laboured first to make my return unto them a ground of that confidence they might repose in me That for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir advantage, I had observed the condition of affairs, in and about <hi>Dublin,</hi> which compared with what I found to be now in hand in that County (for then it was no secret,) I thought it my part to offer one and the o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her to him, that he might order his course in a way most for his s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>curity. That besides the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat supplyes concluded in the Parliament of <hi>England</hi> to be sent into <hi>Ireland,</hi> which were daily expected: The Castle of <hi>Dublin</hi> was provided of a Garison of 300. men and victualled for six moneths. T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a in <hi>Dublin</hi> the forces were greater then I could beleeve they could have been; So
+<pb n="19" facs="tcp:197453:10"/> as if by their late humble Remonstrance they had not prevented it, there had before then a strong power been sent against them, which I desired the Lords might be kept back untill a return, of what eff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts their Answer might produce, were given in unto them. That it was farre from all policy for them to eng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge their first s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting forth upon that which would be of greatest opposition. That to receive the least shew of a defeat in the beginning of their work, were at once to dishearten their own men, and to keep of others that would according to their successe d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clare themselves, for, or against them. That it might be conceived, That the attempting first of <hi>Droghedab,</hi> though lesse honorable, compared with the other, yet could be the easier, and every way conducing to the intent of their proceedings. That as that place was strong so was it with little or no d fficulty to be taken in, considering the party they had there, and the weaknesse of the Garison, being none other then the Lord <hi>Moores</hi> Troop; That by attaining that place, as it would be an hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tning to his men; so would it open the way for the Northern forces to come up and joyn in any attempt upon <hi>Dublin,</hi> whereas now it did lye as a stop in their way. That therein they had a place for a safe retreat on any occasion; whereof they could not readily be dispossessed. That whether he attempted the one, or the other of those two places, it were wise<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om to spend and spin out some part of the time about <hi>Kells,</hi> or other parts in <hi>Meath,</hi> untill the other forces of <hi>Fermanagh</hi> and <hi>Monaghan</hi> came up unto him; least by ad<g ref="char:EOLhyphen"/>vancing two farre upon his own strength, he might be encountred apart by the power of <hi>Dublin;</hi> and so by too much forwardnesse endanger the whole. This last was added, that thereby, either by Letters from me, or by the appearing of the Enemy, and not march<g ref="char:EOLhyphen"/>ing forward, notice might be given at <hi>Dublin</hi> of their proceed<g ref="char:EOLhyphen"/>ings.</p>
+            <p>I could not conclude of any thing I had gained upon him in all t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is discou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, either by his gesture or words, his countenance was composed to an unwanted gravity; keeping I suppose, the dist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, and that state which his assumed greatnesse had cast upon him: And although I spake much, that he daigned me no answer to any part
+<pb n="20" facs="tcp:197453:11"/> hereof, but drew me off to another matter, and soon after parted from me, yet with respects.</p>
+            <p>There was one intimate with them, and whom upon promise of pardon and great rewards, I had more then half moulded before to my purpose, and whom I found in many particulars before, to co<g ref="char:EOLhyphen"/>operate with me, by keeping in with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m to give me Intelligence of their d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>signes. Having brought him along with me thither, I left him there to be present in their Councell, and thereof to give me an accompt with all secrecy and speed, I retiring to my Lodging whence I came.</p>
+            <p>By the return which was made unto me about three hours after (and then it began to be late) I found that they h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d been divided in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> opinions: some were for a direct marching to <hi>Dublin,</hi> and gi<g ref="char:EOLhyphen"/>ving the On set upon the place, grounding upon the information given <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m by the Frier: others doubting what a repulse might pro<g ref="char:EOLhyphen"/>duce, conceived it the safest and best course to quarter about <hi>Dublin,</hi> at s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me distance, thereby to hinder the going in of Provision; to exp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct a conv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nient time of assaulting it, if it were found fit to at<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpt it; to gather all that would joyn with them thereabouts, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reby they would soon grow to a considerable Body for any en<g ref="char:EOLhyphen"/>te p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and that in the mean time they might divert the water that from <hi>Templenge</hi> did furnish one part of the City, by which also the Mills were kept on work; ei h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of these might have proved most pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illous: but the third was wholly for <hi>Drogheda,</hi> for the reasons aforesaid, which seemed to weigh down the other two (it may be) be<g ref="char:EOLhyphen"/>cause the Sheriff was the propounder, and i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clined thereunto, yet was it not resolved, untill their meeting at <hi>Kells,</hi> whether of these to fix upon: to which time and place it was deferred.</p>
+            <p>Thereupon I made ready my Letters, and dealt with mine Intelli<g ref="char:EOLhyphen"/>gencer for the delivery of them into whose hands I must therein pu<g ref="char:EOLunhyphen"/>mine own, and the lives of mine. He must have been of necessity on <hi>Monday</hi> morning at the generall meeting at <hi>Virginia,</hi> whence should he have absented himself, besides what was threatened to any that made default, both of us might have been drawn into suspition;
+<pb n="21" facs="tcp:197453:11"/> and by his pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sence among them, I might further understand of their cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ses: I ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore thus much of him, That he would d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>li<g ref="char:EOLhyphen"/>ver my Letter to a Gen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n dwelling within Nine miles, or there<g ref="char:EOLhyphen"/>abouts, from <hi>Arbraccan,</hi> whom, in my Letter to him, I desired to deliver the enclosed with speed <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Captain <hi>Ryves, at Arbrac<g ref="char:EOLhyphen"/>can,</hi> which he did, yet not with that sp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d that I desired, and which the cause required, but I thought it not sale to acquaint them with the occasion. In my Letter to Captain <hi>Ryves,</hi> I declared a d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the enemy had upon him, purposing to be with him the <hi>Wednesday</hi> fol<g ref="char:EOLhyphen"/>lowing, and by a Drove of Cattell that should passe by him to d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw him out of his strength, of which I gave him notice, leaving the rest to himself, desiring that with all speed the enclosed to the Lords Justic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be dispatched upon sight, being of the greatest con<g ref="char:EOLhyphen"/>cernment. These Letters being perused by the Lord, they sent their Commands to Captain <hi>Ryves</hi> to retire, which he did, therein pre<g ref="char:EOLhyphen"/>venting the enemy, who the night following took up his quarters. I did also certifie their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ordships of the whole conceits of the enemies, leaving to their Wisedoms to provide both for <hi>Drogbeda</hi> and <hi>Dublin;</hi> for as they were easily drawn off from <hi>Dublin,</hi> to think of <hi>Drogheda,</hi> so might they as readily, alter that resolution again: wherein their Lordships were not wanting; for while the enemy was spending time about <hi>Kells, Trim, Atbboy,</hi> &amp; <hi>Navan,</hi> we gained the opportunity of or<g ref="char:EOLhyphen"/>dering matters to the best advantage, both for <hi>Dublin</hi> and <hi>Drogheda,</hi> yet so as by some miscarriage (I cannot yet s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whose) the enemy met with 600 of our men, sent for a further supply to <hi>Drogheda,</hi> whom they defeated, and after much mischief thereabouts, setled them<g ref="char:EOLhyphen"/>selves to the Siege of that Town; where, by the Wisedom and Va<g ref="char:EOLhyphen"/>lour of the Governour, that place had found them work, to the pre<g ref="char:EOLhyphen"/>servation (in all probability) of <hi>Dublin,</hi> and therein, of the whole Kingdom.</p>
+            <p>As for mine own Particular, Having many weeks after continued in the house of my Bondage, I conceived it high time to study my coming off, by all means; which by Gods assistance was strangely effected: till then, my stay was not altogether against my will, while I found my self enabled by Intelligence to promote the service of my
+<pb n="22" facs="tcp:197453:12"/> Countrey. But finding him who was my chief Agent, from a Neu<g ref="char:EOLhyphen"/>ter, to f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll wholly to them; That also s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of mine own servants em<g ref="char:EOLhyphen"/>ployed by me, was with the enemy at <hi>Drogbeda;</hi> and that the Gen<g ref="char:EOLhyphen"/>tleman, the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>live<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of that my Let<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to Captain <hi>Ryves</hi> at <hi>Arbrac<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allen away, I could not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect, in my stay here, to do any more good, but <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>reby might rather pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>judice my s lf in the highest d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gree, w<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> discovered. And it was by many conceived strange, that in all that time I was not found out by their means: but as I do in the first place make the work to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ods, So do I next attribute it to the ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing their hands in the work with me, so as they could not b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> suffer with me.</p>
+            <p>Hith<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rto hath been declared the state of matters in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at County, from the 23 <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Oc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ober,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the 11 of <hi>Decem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er:</hi> all being reduced into the h<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bels, excepting the two Castles of <hi>Kylagb</hi> and <hi>Cro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an,</hi> m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intained against them by Sir <hi>Francis Hammilton,</hi> Knight <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Baronet, and Sir <hi>James Craig</hi> Knight.</p>
+            <p>These two Noble Knights, upon th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> first noise of the Rebellion, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d both awak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e security of others about them, and provided so their own defence. Their Castles were strong and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fensible, which they furnished with men and victualls. Sir <hi>Francis Hammilton</hi> had armed two hundred and fifty Foot, and thirty six Horse, most of his own Tenants; be was stored with three Barrells of Powder, and laid in Provision for six months, which yet f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll short of that time, by receiving into his Castle of about Seven hundred other unser<g ref="char:EOLhyphen"/>viceable persons, men, women, and children almost stripped naked, and slying th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her from the fury of the Rebells. In Sir <hi>James Craigs</hi> Castle at <hi>Croban,</hi> there were One hundred and twenty, besides unserviceable persons, who in like manner were fled thither for re<g ref="char:EOLhyphen"/>fuge, to a g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat number.</p>
+            <p>I have before set forth the honourable quarter given unto Captain <hi>Bayly,</hi> up n the surrender of (what he could n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t keep) his weak H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld at th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Cavan,</hi> it being conditioned that he should have in his own keeping the Arms for his Company of 50 men with which they
+<pb n="23" facs="tcp:197453:12"/> suffered him to passe, and accordingly he passed them without mole<g ref="char:EOLhyphen"/>station. But it being considered that he was limited to a place of laying th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m up, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that onely in his own house, being co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch, and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> easily commanded at their pleasure; he also wanting men for guarding of them, for most of his Company were revo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted, we have reason to conceive that all this in them was rather <hi>a not yet breaking,</hi> rather then <hi>a keeping of quarter;</hi> that under a shew of fair dealing, they might draw others who held out, with greater confi<g ref="char:EOLhyphen"/>dence to put themselves into their hands.</p>
+            <p>This was apparant in their preparation made for their marching towards <hi>Drogbedah;</hi> at which t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they concluded the taking into their hands those Arms, which at their pleasure they might easily do, and which till then they had forborn to do.</p>
+            <p>Hereof Sir <hi>Francis Hammilton</hi> rec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iving advertisement, the night bef<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re this should have been put in execution, he sent out 30 Horse, and 20 Foot, under the leading of M. <hi>Malcolme H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>milton,</hi> M. <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vid Cre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghton,</hi> and <hi>James S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mervile,</hi> (Gentlemen approved for many ser<g ref="char:EOLhyphen"/>vices then and after) at the Bridge of <hi>Ballihillian</hi> (ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led the black Bridge) they left their Foot to make good their Retreat, the Horse p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssing forward to the Captains house, whom having mounted, they brought him away together with his <hi>Ensigne, S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgeant, Colours,</hi> and what of the <hi>Arms</hi> they could possibly carry with them; a Service as considerable, as it was to the undertakers dangerous: For had the Ala<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, being given time enough to the enemy, being 3000, and ly<g ref="char:EOLhyphen"/>i g within lesse then two miles, and the passage of the <hi>Blackbridge</hi> taken from them, they could not h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve escaped; and a miracle it was almost, that in the riding of 6 miles (sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rce any by place wanting an Irish Cottage) yet they should s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> passe undiscovered, untill th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y were out of all danger, the enemy af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erwards hotly pursuing, but in vain. Some Pikes the enemy had after found in the Captains house, which could not in haste by our men be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ither carried away, or made unser<g ref="char:EOLhyphen"/>viceable; and some Piec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Armour were taken up here and there scatt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red in the way, being fallen from th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m; so that now the Rebels cond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the keeping of that Quarter so long, and that they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad
+<pb n="24" facs="tcp:197453:13"/> before secured th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t passage, as since <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat time they did, both by cutting the Bridge, being or wood, and placing there a strong Guard besides.</p>
+            <p>This, and other incursions out of these two Castles made upon the Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els remaining in that County, whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e their fellows were at the siege of <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>og<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b,</hi> occasioned the sending back from the <hi>Siege, Edmund é Reyly,</hi> father to the <hi>Sheri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f,</hi> with command with what forces he could raise, to take in <hi>these places;</hi> that so they might without any distracti<g ref="char:EOLhyphen"/>on int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd their great designe ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oad.</p>
+            <p>For effecting hereof, To those raised in that County were joyned, oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs called <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the neighbour County of <hi>Le<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>im,</hi> both making u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>000, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om <hi>Edmund</hi> their Commander conceived more th <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> suffici<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt for that service, purposing to besiege both Castles at once, which he might easily and conveniently have done. For they were w thin little more then a mile of each other, being on the one <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> shut in with water, over which at that time there could be for the besieg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, no pass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge; other parts being compassed with Woods, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the enemies pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pose, wherein they might so have placed them<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves, as their could be no getting off that way. In the midst be<g ref="char:EOLhyphen"/>tween b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Castles, did stand the <hi>Town of K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shandra,</hi> belonging to Sir <hi>Francis Hammilton,</hi> convenient for the enemies quarters, answering to both places, and sufficient with all conveniency of good houses to lodge the whole Army; so that t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere wanted nothing to advantage the besieges, or to distresse the besieg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p>Upon Intelligence received of their approaching (for the Scouts were the only Intelligencers.) Sir <hi>Francis Hammilton</hi> sent out a party of Horse and Foot, burning all places about, beginning with his own Town of <hi>Killishandra,</hi> by himself built and planted, that it mig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not stand the enemy in steed; so also did Sir <hi>James Craig,</hi> about him; whereby the Rebell was disappointed of his quarters; without which he could not subsist in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at cold season of Frost and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow; finding it more then he was well able to do, to stay there, only two nights.</p>
+            <pb n="25" facs="tcp:197453:13"/>
+            <p>That time of his being there was spent in drawing up towards Sir <hi>Iames Craigs</hi> Castle of <hi>Crohan;</hi> whence they were beaten backe with their losse of 14 men, and the taking prisoners of <hi>Laghlyn O Rourke,</hi> and <hi>Brian O Rourke,</hi> eminent persons among them, and prime leaders of the <hi>Letrim rebels,</hi> these were after exchanged by Sir <hi>James Craig</hi> for <hi>Dr. Bedell Bishop of Kilmore</hi> and some others; yet contrary to this agreement did they againe lay hold on <hi>that Reverend Person,</hi> only affording him a being, where they might at their pleasure com<g ref="char:EOLhyphen"/>mand him, where he after died: being one of the brightest lights of that Church, both for learning and a shining conversation, and in his constant diligence in the worke of the ministry a patterne to o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>The Enemy soone weary of his bad lodging, and worse enter<g ref="char:EOLhyphen"/>tainment, though his losse were not great, His offers of faire quarter being reiected, prepared to be gone: yet not without doing something answerable to the greatnesse of his preparations and the expectation every where had of them: which was, the stealing away of some few stragling cattle about the Castles; I say <hi>stealing</hi> them away, for he durst not advance within sight or command of musket shot of either, and with those great spoyles did he returne in triumph, supplying what he wanted of doing, with menaces and promises, of what he would doe.</p>
+            <p>About a fortnight after, it being given out that they meant to re<g ref="char:EOLhyphen"/>turne; Sir <hi>Francis Hamilton</hi> sent abroad 12 horses to burne all with<g ref="char:EOLhyphen"/>in three or foure miles about him: in doing whereof, they discovered the Enemy drawing towards them, being about three hundred, of which having sent speedy notice to Sir <hi>Francis</hi> (which also he com<g ref="char:EOLhyphen"/>manded they should doe) who to answer any such occasion, had in readinesse other twelve horses and sixty foot, with whom he march<g ref="char:EOLhyphen"/>ed, easily directing his course by the fires his men before sent forth had made, for they according to their directions so avoyded the Ene<g ref="char:EOLhyphen"/>my, that yet they stil kept them in play, coasting from place to place neere about, and firing what they came neer, expecting the comming up of their seconds: Sir <hi>Francis</hi> had in a convenient place for his owne retreit, and for distressing the Enemy should they follow him, laid forty five of his foot: and with fifteene of the ablest of them drew up, with whom and his twenty foure horses, he set upon the
+<pb n="26" facs="tcp:197453:14"/> Rebels, at the first volly killing six of them, of whom <hi>Fr. O rourke</hi> a <hi>Fryar</hi> was one, who in the Habit of his Order did lead the Com<g ref="char:EOLhyphen"/>pany, at the next there fell nine, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Enemy standing to it while most of our Bandileeres were spent, but being broken by the Horse they fled and were pursued about two miles: thirty seaven of them were slaine, the comming on of the night, and the disadvantage of the wayes for horse, in respect of their foot, saving the rest. There were taken prisoners, <hi>Owen O ourke</hi> their Commander, one of great e<g ref="char:EOLhyphen"/>steeme; and <hi>Philip O reyly</hi> Vnkle to <hi>Philip Mac Hugh O reyly,</hi> Colonel (as they call him) of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t whole County.</p>
+            <p>All meanes were used by Treaties, and threatnings, for getting off these prisoners; concerning whom Sir <hi>Francis</hi> was solicited by fre<g ref="char:EOLhyphen"/>quent Letters from <hi>Edmund O reyly,</hi> but in vaine: these being reserved (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s persons of the best respects) to answer any the like occasion that might befall the best of ours.</p>
+            <p>In such Services stood matters in those parts, untill the <hi>first of Fe<g ref="char:EOLhyphen"/>bruary,</hi> at which time there was great expectation of what should be done against these two Castles by <hi>Mulmore O reyly</hi> the Sheriffe; for so I must still call him, he calling himselfe so, notwithstanding he had been already discharged, but chiefly to distinguish him from others of the same name, and of lesse note, he being in their esteem the second in that County.</p>
+            <p>As the severall losses the country received from these few <hi>Brittish,</hi> had before drawne <hi>Edmund O reyly</hi> with some of his men from before <hi>Droghedah,</hi> so their proceeding in the same course notwithstanding, &amp; principally the said <hi>Edmunds</hi> late repulse, with all those forces, and the taking and keeping of their late prisoners, called home from that siege <hi>Mulmore O reyly,</hi> for doing what his father <hi>Edmund</hi> could not.</p>
+            <p>Wherein we may finde of what consequence these seeming sleight services have been to hinder the proceedings of the Enemy abroad, for besides the reserving a considerable number at the first at home so as they could not goe forth with their full power; it did dayly diminish their Army before <hi>Droghedah:</hi> first, in the comming away of <hi>Edmund,</hi> then of this <hi>Mulmore O reyly,</hi> who though they returned without any great numbers, yet some they had; and those under their command left behind soone after followed them notwithstanding any com<g ref="char:EOLhyphen"/>mand
+<pb n="27" facs="tcp:197453:14"/> to the contrary, weighing the greatnesse of the service in the County of <hi>Cavan,</hi> by the eminency of the persons sent about it; and judging their labour better spent in ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntaining at home what was their own, then losing that and themselves in looking after that they never had and never were likely to have: so that of 3000 men that went out of that <hi>County</hi> to the siege of <hi>Droghedah</hi> there re<g ref="char:EOLhyphen"/>mmained not 700 with <hi>Philip mac Hugh o Reyly</hi> their chiefe Com<g ref="char:EOLhyphen"/>mander: and the most desperate attempts that have been m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de ei<g ref="char:EOLhyphen"/>ther against that Towne, or for hin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring the supplies sent to it by sea, were done by those of this County. Hereby also might appeare, could any Forces at that time have been spared about <hi>Dublin</hi> and sent in this County what service they might have done for raising the siege of <hi>Droghedah;</hi> for the Town was blocked up on that part that lay towards <hi>Dublin</hi> if not onely yet chiefly by the <hi>Cavan</hi> Forces, whom we see drawn home by an handfull of men. Hereby lastly we may see of what consequence it had been to have since the siege of <hi>Droghedah,</hi> sent some Forces into that part for re<g ref="char:EOLhyphen"/>lieving these two Castles, whereby the enemy might still have been kept on worke, other places in the same County furnished with the like garisons, and by burning the rest, not suffering it to be (as now it is) the harbour of those, who, if not prevented, may make the latter end with us worse than the beginning.</p>
+            <p>But leaving this necessary digression, for which I doe intend the whole discourse, I return where I left.</p>
+            <p>
+               <hi>Mulmore o Reyly</hi> being returned from before <hi>Droghedah,</hi> where he left <hi>Philip mac Hugh o Reyly,</hi> he began to gather up his men not doubting to make but one, and that no long worke of what he came about: therein also ambitious of the glory of doing that wherein others had failed. Of such as came along with him, that followed after him, that he found in the Country, and whom he called in out of the Countrey of <hi>Letrim,</hi> he framed the body of an army of 2700. and that it might not be short in number of that with which he hoped at his first setting out to take <hi>Dublin</hi> it selfe, he sent for <hi>Robert Nugent</hi> of <hi>Carleuston</hi> in the County of <hi>Westmeath,</hi> a Gentleman of 1500 l. <hi>per annum,</hi> who upon promise of the Armes in both Castles (the question not being of taking the places, but for dividing the spoyle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) came in person with 300 choice men.</p>
+            <pb n="28" facs="tcp:197453:15"/>
+            <p>With this Army of three thousand men, besides a multitude of others who followed to behold the sport (for no otherwise did they conceive of it) <hi>Mulmore</hi> did quarter about five miles over night in the places next the Castles which had not been burnt, pur<g ref="char:EOLhyphen"/>posing to begin the next day &amp; with the day to take all before him.</p>
+            <p>The newes hereof did no way dismay those who were to receive them, they being so farre from immuring themselves up in their Forts, there to expect them, that Sir <hi>Francis Hammilton</hi> drew up his small number into the field, placing in the lane being the high way leading from <hi>Killishandra</hi> to his Castle of <hi>Kylagh</hi> 150 men, some few Musqueteeres being here and there left in places of great<g ref="char:EOLhyphen"/>est advantage. And that the enemy might not by making a neerer way to this Castle (which he might do) finde him worke in many places at once, he commanded thirty horse to guard the Wind<g ref="char:EOLhyphen"/>mill-Hill joyning to the highway towards <hi>Killishandra</hi> by which the enemy must march, being also so neere to his Castle, that they might heare and understand one another speaking aloud. Behind the horse, he cast up a small sconce of Earth guarded with sixteen Musketeeres, to whom the horse might retire, and both of them to make good that passage. It was also so ordered, that those scat<g ref="char:EOLhyphen"/>tered Musketeeres that were furthest off having given fire and done their parts there, should retire to the next, and they united doing their duty, to fall together back to the next, doing in like manner, untill being forced to give ground they might make a faire and or<g ref="char:EOLhyphen"/>derly retreat for defence of the Castle.</p>
+            <p>The enemy now in sight, put forth some horse to skirmish with ours on the Windmill-hill. Of theirs three fell, and the rest fell off, untill by the comming on of the whole body, our horse fell backe under the command of the Musketeeres; who giving fire, the enemy was forced to keepe himselfe to the high-way leading to <hi>Killishandra,</hi> making in the street a stand to consider of his course.</p>
+            <p>His intent was not now, as theirs before, to <hi>besiege.</hi> The dull proceedings of his father suited not with the waies of this heady yong man: he is wholly for the <hi>assault.</hi> Neither will he begin with <hi>Crohan</hi> as did the other, but resolveth to fall upon that which of the two was the strongest and the best provided place, and to
+<pb n="29" facs="tcp:197453:15"/> keepe his first man, Sir <hi>Francis Hammilton</hi> by whom he was most injured. For at that instant one of the Musketeers placed in the lane tooke aime, and, though at very great distance, knockt downe a<g ref="char:EOLhyphen"/>mong the company one <hi>Fitz-Simonds</hi> an <hi>Ensigne-bearer,</hi> at whose fall there was a great cry.</p>
+            <p>Whereupon a hundred commanded Musketeeres of the enemy fell in within the ditches on both sides the lane, to beate upon ours within the lane, while their maine body came directly forward. Both one and the other of them were sufficiently galled by our shot; who performed well, and observed their commands. For the first loose shot having discharged their parts retired, and with those unto whom they put themselves made good their ground, till by degrees retreating, they did altogether bet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke themselves to those places and duties appointed them for the defence of the Castle. Some onely charging of muskets, others discharging them from the flankers, windows, and batlements.</p>
+            <p>For now was the enemy appro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched; having first presented the defendants with a great Peece upon carriages, planted on Wind<g ref="char:EOLhyphen"/>mill-hill, after our men had forsaken it, with which a battery was threatned, if they yeelded not. But as it could not speake for it selfe, being but counterfeit, and made of wood; so did it worke nothing upon them in the Castle, who were wholly intent upon those who were now so neer that they were under the command of their Muskets.</p>
+            <p>The enemy finding many of their men to fall, retired under a rising of ground where we could not hurt them. Thence they sent and fi<g ref="char:EOLhyphen"/>red a stable, barne, other out-houses, and some stacks of Corne, that they might march unseen under a cloud of smoake which the wind did to their great advantage drive upon the Castle. Some of them with sheaves of Oats, and straw burning, on the tops of their pikes ran to the Flankers, thrusting them into those places whence the musketeers plaied upon them, by the fire and smoake to force them out; one of them adventurously laid hold of a musket in one of the spike-holes ready to be discharged. Thus came they on in a most desperate manner, being before made, to that end, more then halfe drunke with their <hi>Aquavitae,</hi> continuing in that headlong course about three quarters of an houre without gaining any thing upon
+<pb n="30" facs="tcp:197453:16"/> us (wanting scaling ladders) but losing themselves, their bodies beeing laid open to our shot from all parts, as the breaking up of the smoke gave way to discover them. Neither did their shot a<g ref="char:EOLhyphen"/>gainst our walls, windowes, or batlements, of which they were not sparing out of such places of advantage whence we could not com<g ref="char:EOLhyphen"/>mand them, do us any hurt. Thus having wearied themselves out in vaine, and being at length sencible of their desperate un<g ref="char:EOLhyphen"/>dertakings, they now cake care how to get off with least prejudice, they being no more to be gotten on by all that could be said or don by their <hi>Commanders,</hi> I cannot say their <hi>Leaders;</hi> for none of their Officers would come up in all this service: which being ob<g ref="char:EOLhyphen"/>jected to them while they urged a second assault, one of the Cap<g ref="char:EOLhyphen"/>taines to shew his forwardnesse above others would go on, and turning about to his Souldiers he was met with a bullet which pas<g ref="char:EOLhyphen"/>sed through both his cheekes, which was to him, and all his fellowes, and followers a sufficient stop, from proceeding any further,</p>
+            <p>Whereupon they altogether retreated; now applying them<g ref="char:EOLhyphen"/>selves to what they are more skilfull in, the gathering together and taking away all the cattell that were without the Castle, which they did, doing the like through all the way they went back, for six miles together, lest any should fall in the power of our men for their supply.</p>
+            <p>The shot in this fight was heard in the <hi>Castle Cloghouter</hi> two miles off by water, and the Prisoners therein, seeing the fire and smoke, conceived Sir <hi>Francis</hi> his Castle had been burnt.</p>
+            <p>In all this it could not be but very many of the enemy must have beene killed, yet could we understand of no more then 167, few of those that were hurt ever recovering. One of ours was shot through a spikehole, another had his Armor and dublet shot through, without further harme, who seeing the passage it had made, hee told his fellow that it could not be but that he was a dead man, though he felt no hurt, neither could be perswaded till unbrac<g ref="char:EOLhyphen"/>ing himselfe the bullet was found between his doublet and shirt. It is observed that in the whole service from the 23. of <hi>October</hi> ti l the 15 of <hi>June,</hi> setting aside such as were cut off in stragling, there were lost in fight, no more then <hi>five</hi> men belonging to this Castle,
+<pb n="31" facs="tcp:197453:16"/> one of them being <hi>Robert Mac Lalan</hi> a <hi>Sergeant,</hi> who being taken at an advantage, was barbarously mangled having thirty six wounds.</p>
+            <p>Thus have we seene the end of this great undertaking, neither durst the Enamy make another like approch for three moneths after; conceiving himselfe to have donne sufficiently in placing guards upon Bridges, and passes, many miles off, not thereby to make his way upon us, but to hinder our incursions (which he feard) upon his.</p>
+            <p>Yet could not this be any stop to Sir <hi>Francis Hammilton,</hi> who within two dayes after, breaking into the parts of the County of <hi>Letrim</hi> to him adjoyning, with 20 Horse and 100 Foote, having kil<g ref="char:EOLhyphen"/>led some stragglers (for others he met none) returned with 40 Cowes and 200 Sheep.</p>
+            <p>Desirous also to try the countenance of his Neighbours pla<g ref="char:EOLhyphen"/>ced by him (the Enemies guards about <hi>Bradies</hi> Bridge, and the Bridge of <hi>Ballihillian</hi>) and thence to bring in some Corne for his supply, he sent out 60 musketeeres with some woman and youths, to carry away the Corne being burnt out of the eare (as the fashion there is, when they want time to thrash) these being de<g ref="char:EOLhyphen"/>fended by the Souldiers. The enemy being not far off appeard to the number of 200, yet durst they not deale with our men who had placed them selves for their advantage, expecting the com<g ref="char:EOLhyphen"/>ming of Sir <hi>Francis</hi> who prepared for to second them, and after a while drew neere with forty Foote, and forty Horse, whereof ten belonged to Sir <hi>Iames Craig.</hi> Vpon approach of these the first who had before faced the Rebels with a great shoute brake out upon them, and Sir <hi>Francis</hi> falling on, they fled, and being a lit<g ref="char:EOLhyphen"/>tle way pursued, ours retreated esteeming it sufficient to have dis<g ref="char:EOLhyphen"/>engaged their fellowes, and secured that small quantity of Corn that was carried away. Our backs being turned, the enemy came on with a most terrible cry, as if we fled. Whereupon Sir <hi>Francis</hi> making a stand, he mounted forty Musketeeres behind his Horse<g ref="char:EOLhyphen"/>men and galloped after them, hoping to gaine a place of strength which lay betweene them and the Bridge, and so to en<g ref="char:EOLhyphen"/>gage them betweene his men. But they finding his intent, made from him thitherward, and having possessed themselves there<g ref="char:EOLhyphen"/>of
+<pb n="32" facs="tcp:197453:17"/> made themselves for resistance, of which we having killed one man, retired without being any further pursued, in the returne, bur<g ref="char:EOLhyphen"/>ning all before us.</p>
+            <p>About this time, the bloody Sheriffe thus disappointed of his cruelty, and for revenging on some what he suffered from others, commanded those poore Brittish that were left in the Towne of <hi>Belturbet</hi> and not able to follow the rest, to be forced from off the Bridge into the deep river, where they were all to the number of 60. swallowed up and perished.</p>
+            <p>This being reported to them at <hi>Kylagh</hi> and <hi>Crohan,</hi> Sir <hi>Francis Hammilton,</hi> and Sir <hi>Iames Craig</hi> resolved on revenge, they going forth in severall parties.</p>
+            <p>Sir <hi>Francis</hi> with 30 Horse and 100 Foote, drew to a place called <hi>Derewily</hi> bordering on the County of <hi>Letrim,</hi> having intelligence of 60 rebels lying in a wood. To the place he came without disco<g ref="char:EOLhyphen"/>very about the dawning of the day, surprising them in their cabbins and beds; of whom 27 he slew, taking 14 prisoners, the Souldiers being unwilling to repreeve any; these he after hanged, the rest es<g ref="char:EOLhyphen"/>caping by reason of the wood. But 50 of Sir <hi>Iames Craigs</hi> Foote being by Sir <hi>Francis Hammilton</hi> appointed to attend any such oc<g ref="char:EOLhyphen"/>casion on the other side of the water (for a river was betweene them) they who escaped the one, fell into the handes of the o<g ref="char:EOLhyphen"/>ther, of whom they slew ten and hang'd foure. Thus were all of the rebells used who after that time fell within their power.</p>
+            <p>About the middle of <hi>March</hi> the store in both Castles fell short, by feeding so many mouthes: so that thenceforth they must fight for what they must eate; which they commonly did thrice a week, with very great hazard, for there were placed 200 rebells to guard the passages in Sir <hi>Iames Craigs</hi> woods; 200 under Captaine <hi>Iohn O Reyly</hi> at <hi>Bradys</hi> Bridge, and <hi>Mulmore</hi> the great Sherife was now content himselfe to quarter in a Cottadge with 300 men about him at the Bridge of <hi>Ballihillan,</hi> to keepe our men from looking abroad.</p>
+            <p>On the 8 of <hi>April</hi> died Sir <hi>Iames Craig.</hi> A Gentleman of sin<g ref="char:EOLhyphen"/>gular and the best Abilities; well deserving of his Country both in peace and War: of whom I say the lesse because I cannot write enough.</p>
+            <pb n="33" facs="tcp:197453:17"/>
+            <p>The losse of this worthy person, as it could not but be of exceed<g ref="char:EOLhyphen"/>ing great disadvantage to the service; So did it double the pains, care, and charge of Sir <hi>Francis Hamilton,</hi> upon whom the oversight and ordering of matters in both Castles was now cast. For at this time was the Lady <hi>Craig</hi> faln sick &amp; the company in the Castle wasted by a mortall and infectious sicknes, whereof there died 160, and the forces then remayning not sufficing for the guard of place. Wherby Sir <hi>Fran<g ref="char:EOLunhyphen"/>cis</hi> was enforced to send of his own for securing it: a Squadron being daily from his Castle of <hi>Kylagh,</hi> sent to <hi>Crohan,</hi> doing duty by turns, for no one would be perswaded to contiue there, in respect of the in<g ref="char:EOLhyphen"/>fection, these were lead out and brought off, by a strong Guard to that purpose, sent twice each day, placing the like number in <hi>Crohan,</hi> as they took out.</p>
+            <p>Necessity would not suffer them to be idle, therefore about the 22 of <hi>April,</hi> did Sir <hi>Francis Hamilton,</hi> with 210 foot and 40 horse, taken out of both Castles goe forth to forrage; and strong hee must goe, all places being strongly laid against him. Hee tooke his way towards <hi>Tullagha,</hi> and under the covert of a Wood laid an ambush of 150 men, sending the other, divided into two Companies, together with women and boyes, to gather in and drive away what cattle could thereabouts be met withall, commanding them if set upon by more then they could master, to make their retreat, and draw on the ene<g ref="char:EOLhyphen"/>my, within the danger of the ambuscado, which sorted accordingly for these Forragers, were pursued by three hundred of the ene<g ref="char:EOLhyphen"/>my, who followed them untill falling into the trap prepared for them: they being set upon fell into the Wood, whither our foot followed them, and as they sought their wayes out from the foot, the horse that guarded the passages, beat them back into the Wood, in which hunting-chace there were slain of them 45. of whom 14 were of the Sect of the <hi>Macgawrans,</hi> all landed men. Few of the rest could have escaped, had not our men been called off by a discovery made by our Scouts of another Enemy approching Sir <hi>Francis</hi> having ordered his men for a second service, the Rebels though farre exceeding in number, were content to suffer him to passe without any interrupti<g ref="char:EOLhyphen"/>on, bringing off with him sixty Cows, which were divided between both Castles,</p>
+            <pb n="34" facs="tcp:197453:18"/>
+            <p>In these and such daily and light services was the time taken up untill the four<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h day of <hi>May.</hi> For now the Enemy finding that by their Guards at distance they were but losers, as often as their loose Companies encountred ours; and that therein they attained not their ends, which was the shutting us up from provision; being also en<g ref="char:EOLhyphen"/>formed, that for want of victuals the Castles could not hold out ten days; which was related to them by one <hi>Barlow</hi> a Fugitive, out of Sir <hi>Francis</hi> his Castle, where till then he &amp; his had bin relieved. They did therefore once more resolve to engage themselves upon it, and to make it their last worke, concluding not to desist, or raise their siege till all were theirs.</p>
+            <p>To this end they drew up into <hi>Killishandra,</hi> and all the places a<g ref="char:EOLhyphen"/>bout, being at their first quartering about two thousand, which was soone after made three thousand, and that number doubled by the comming into the County of <hi>Cavan,</hi> of all those Lords, Gentle<g ref="char:EOLhyphen"/>men, and others who had been by our Armies forced out of <hi>Meath,</hi> and other parts, besides the return of <hi>Philip Mac Hugh O Rely,</hi> with his men from <hi>Droghedah</hi> whence he was beaten off.</p>
+            <p>Thus were these two Castles shut up at once without any inter<g ref="char:EOLhyphen"/>course. As for that of <hi>Crohan,</hi> besides their other wants the besieged had their water without them, which the Rebels laboured to take away from them by shutting them up, so as they should not without losse look out at the Castle gates. To this purpose, they had in the night in a place of advantage cast up some works within lesse then half a Musket shot from the gate out of which by the valour of the Defendants, they were more then once removed with losse, and their Trenches cast down, yet did they, as oft repossesse themselves of them in the night, and rebuilt with some further Fortifications, what had been before demolished. By this means the distresse for water was great within, not having any but what by women or some others who in the night durst adventure forth, was brought in and sold to them at four pence the quart. But to make it wholly unserviceable, the Rebels first cast into the Well a dead Dog; and after the carcasse of a man that had long been unburied. So that they were enforced to dig within the Walls where they found water, but muddy and unwholsom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <pb n="35" facs="tcp:197453:18"/>
+            <p>In Sir <hi>Francis Hamiltons</hi> Castle provision of victuals was short, no bread was eaten there a fortnight before the surrender. Their milch Cows reserved for giving milk to the sick were first killed; then most of their horses, after their dogs; and lastly, they eat the Hydes of Beasts slain many moneths before. The Souldiers in these their sufferings began to mutine, six or seven having run away with their arms to the Enemy; the sicknesse of Sir <hi>Francis Hamilton</hi> occasioned by extraordinary pains, care, watching, and hard fare, adding to these discouragements.</p>
+            <p>These extremities thus suffered from the fourth of <hi>May,</hi> untill the fourth of <hi>Iune;</hi> all supplyes from <hi>Dublin</hi> being in vaine expected more then seven moneths; there being also no hope left of any further subsistence where they were; Sir <hi>Francis</hi> now forcing himself out of his bed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gan to entertaine that Treaty for Quarter, which by the enemy had been daily offered, and till then was refused.</p>
+            <p>He desired in the first place that Master <hi>Thomas Price</hi> Archdeacon of <hi>Kilmore,</hi> and Master <hi>Ambrose Bedell,</hi> chiefe in the Castle of <hi>Cro<g ref="char:EOLhyphen"/>han,</hi> might be admitted with safety to conferre with him, that by their advice he might capitulate for both Castles, which after much debate and some difficultie was condescended unto. From whom he having understood that the Castle of <hi>Crohan</hi> was in no condition for longer resisting it was concluded that the <hi>Treaty for surrender</hi> should pro<g ref="char:EOLhyphen"/>ceed.</p>
+            <p>On the one part appeared <hi>Philip Mac Hugh O Reley,</hi> the Colonel with <hi>Mulmore O Reyly</hi> the Sheriffe, and foure other Captains. On the other was Sir <hi>Francis Hamilton,</hi> Sir <hi>Arthur Forbes</hi> Baronet (a Gentleman about seventeen, yet one in all services) with two other Gentlemen for the Castle of <hi>Kylagh;</hi> and Master <hi>Price,</hi> and Master <hi>Bedell</hi> for <hi>Crohan,</hi> between these certain Articles were agreed upon as followeth.</p>
+            <q>
+               <pb n="36" facs="tcp:197453:19"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles_of_agreement">
+                        <head>Articles of agreement concluded and agreed upon, the quarter give by <hi>Philip Mac Hugh Mac Shan</hi> rely, and the rest of the Gentlemen here under named to sir <hi>Francis Hamilton</hi> concerning the Castles of <hi>Kylagh</hi> and <hi>Crohan,</hi> in manner and forme following, bearing date the fourth day of <hi>Iune 1642.</hi>
+                        </head>
+                        <p n="1">1. <hi>INprimis,</hi> It is agreed by and between these parties following, <hi>viz.</hi> Sir <hi>Francis Hamilton</hi> Knight and Baronet, in the be<g ref="char:EOLhyphen"/>halfe of the Lady <hi>Mary Craige,</hi> himselfe, the Gentlemen, Gen<g ref="char:EOLhyphen"/>tlewomen, Souldiers, and all others both men, women and children, of what degree condition, or quality whatsoever, belonging unto, or being in either of both Castles, <hi>viz. Kylagh</hi> and <hi>Crohan,</hi> shall have safe quarter from <hi>Philip Mac Hugh Relie, Edmond Re<g ref="char:EOLhyphen"/>lie, Philip mac Mulmore relie, Mulmore mac Edmond Relie, Hugh buii Relie, Iohn mac Philip Relie, Philip roe Relie, Iames Neu<g ref="char:EOLhyphen"/>gent, R. A. Owen Rourke</hi> Esquires, <hi>Edmond mac Owen Relie, Ferall oge Relie, Charles mac Gauran, Daniel mac Gauran, Iohn mac Kernan, Conner Relie, Relie,</hi> and <hi>Tirlagh, Cahil Relie,</hi> to bee convoyed to <hi>Droghedah</hi> with saftie of their lives, and of their bag and baggage, which they shall carry with them and that such persons above named as are herein mentioned by particular name, viz. <hi>Philip mac Hugh Relie, Philip mac Mulmore Relie, Mulmore mac Edmond Relie, Phi<g ref="char:EOLhyphen"/>lip roe Relie, Iohn mac Philip Relie,</hi> with such companie as they shall thinke fit, shall goe in person to guard us that are above mentioned, together with such a competent number of souldiers, a List being de<g ref="char:EOLhyphen"/>livered unto Sir <hi>Francis Hamilton</hi> of their names as shall be sufficient to defend us from the danger or hurt of any that may assaile us with any intention to hurt us, or any of us before mentioned in our lives or goods; and it is likewise conditioned by the said <hi>Philip</hi> and the rest of the Gentlemen above named, that they shall not leave us, untill we be safely delivered over unto the hands of such a guard,
+<pb n="37" facs="tcp:197453:19"/> or convoy, as shall be sent to receive us by the Governour of <hi>Drog<g ref="char:EOLhyphen"/>heda,</hi> and that we may be delivered over unto the hands of the said guard in love and amitie, and depart so each from the other.</p>
+                        <p n="2">2. We shall have with us the Kings Majesties armes, together with all Carrabins, Petronels, Pistols, Horsmens-Peeces, Bandeliers, Swords, Rapiers, Daggers, Horses, with all the Horse furniture be<g ref="char:EOLhyphen"/>longing to them, partisans, Holberts, and that the Souldiers belong<g ref="char:EOLhyphen"/>ing to Sir <hi>Francis Hamilton</hi> shall march away with Drums beating, Colours flying, and Bullets in their mouthes.</p>
+                        <p n="3">3. Thirdly, we are to have provision provided for us, upon our way, which we are to march through for our ready moneys, the guard mentioned are to goe upon their owne charge.</p>
+                        <p n="4">4. Fourthly, we will be ready to depart by Wednesday the 15. of June 1642. and in the meane time Horses and carriage is to be pro<g ref="char:EOLhyphen"/>vided for us for transporting of our baggage and sicke people, if any shall happen to be at that time, either to be bought or hired for our ready money.</p>
+                        <p n="5">5. Fiftly, that Master <hi>William Bedell</hi> and his wife, <hi>Alexander Clo<g ref="char:EOLhyphen"/>gie,</hi> Master <hi>Bagshaw</hi> and his Familie, <hi>Robert Iohnson,</hi> together with all such Brittish as are remaining within the County of <hi>Cavan,</hi> shall be sent hither to goe along with the said Sir <hi>Francis Hamilton,</hi> and that they may have liberty to carry with them all such bag or bag<g ref="char:EOLhyphen"/>gage as they have to carry.</p>
+                        <p n="6">6. Sixthly, that such poore men and women that are not able to goe along with us, shall have a safe quarter to stay and remaine in the Countrey, and that provision shall be made for them, which un<g ref="char:EOLhyphen"/>to Christianitie appertaineth.</p>
+                        <p n="7">7. Seaventhly, that after both Castles, <hi>viz. Kylagh</hi> and <hi>Crohan</hi> shall be surrendred, that then <hi>Philip mac Hugh Relie,</hi> and the rest of the Gentlemen first named, shall take care that the said Castles shall
+<pb n="38" facs="tcp:197453:20"/> not be defaced, burnt, or demolished, but preserved for the Kings Majesties use, and for the use of the right owners thereof, and that the like care shall be had for preserving the Gardens and Or<g ref="char:EOLhyphen"/>chards belonging to both Castles.</p>
+                        <p n="8">8. Eighthly, that such people in both Castles, that shall desire to travell to any part of this Kingdome, shall be allowed so to doe, and shall have Passes given them for their safe travelling from one or other of authoritie within this Countie, and in the said Passes it may be desired, that the Gentlemen of such Counties in which they are to passe through may give them Passes for their safe travelling unto such places as they shall desire to rest and remaine in.</p>
+                        <p n="9">9. Ninthly, it is further agreed upon betweene both parties, that an authenticke Copie of this agreement sealed and signed by the said <hi>Philip mac Hugh, Mac Shan Relie,</hi> and the rest of the Gentle<g ref="char:EOLhyphen"/>men first named, shall be sent to <hi>Droghedah</hi> to the Governour or chiefe Commander there, to the end the said Governour may send a Certifcate under his hand and seale, to be delivered unto Sir <hi>Francis Hamilton,</hi> and the rest of his Companie ten or twelve miles from <hi>Droghed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>,</hi> for the securitie of both parties, and the due performance of this agreement, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t there may be a certaine place appointed by the said Governour, where the said Sir <hi>Francis</hi> and his Companie shall be received without any danger or affront unto such as shall convoy them.</p>
+                        <p n="10">10, Lastly, for the due and true performance of this agreement, and every point therein contained, both parties shall make choyce of the most principall Gentlemen on either side to sweare that they will truly and faithfully performe according to this agreement and every point therein contained, and likewise set their hands and seales the day and yeere above written,</p>
+                        <closer>
+                           <signed>
+                              <hi>Philip Relie, Edmond Rely, Philip Rely, Mulmore O Rely, Hugh Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>y <gap reason="illegible" resp="#keyers" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>n Rely, Philip Rely, Iames Neugent, R. A. Owen Rou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ke, Ed<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>nd Rely, Ferall Rely, Charles mac Gauran, Daniel mac Gauran, <gap reason="illegible" resp="#keyers" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>c Ker<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>an, Conner Rely, Mulmore Relie, Turlagh Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>el.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="39" facs="tcp:197453:20"/>
+            <p>These Articles being signed, sealed, and sworne unto by the sub<g ref="char:EOLhyphen"/>scribers, upon the 15. of <hi>June,</hi> there came out of the Castle of <hi>Ky<g ref="char:EOLhyphen"/>lagh,</hi> Sir <hi>Francis Hamilton</hi> with about 800. men, women and chil<g ref="char:EOLhyphen"/>dren, of whom there were two hundred and thirtie fighting men. Out of <hi>Crohan</hi> with the Lady <hi>Craig</hi> there came about foure hundred of all sorts, and of them, one hundred being serviceable men, and with these there were ten Ministers, among whom Master <hi>Price,</hi> one of good abilities, diligent in his Calling and forward in that ser<g ref="char:EOLhyphen"/>vice, doth merit especiall respects, besides those that came out of those Castles, there were 140. others, who from other parts of the Coun<g ref="char:EOLhyphen"/>trey joyned themselves unto them according as in the Articles Sir <hi>Francis</hi> had provided for them.</p>
+            <p>These marched away according to the Agreement with matches burning, Bandelleres full, Drums beating, and Colours flying; bringing with them Armes for 95. men. Sir <hi>Francis</hi> had in a Trunke one firkin of Powder which was not discovered, leaving with the enemy only 20. pounds for to colour it. In both Castles there were left about ninetie Peeces great and small, and many Pikes, most whereof had beene recovered from the Enemy.</p>
+            <p>These 1340 of all sorts were by <hi>Philip Mac Hugh Rely,</hi> with the rest of the mentioned in the Articles for so doing, and a Guard of se<g ref="char:EOLhyphen"/>ven hundred Souldiers conducted towards <hi>Droghedah,</hi> they made an Halt about fourteen miles from the Town, expecting an answer from the Governour Sir <hi>Henry Tichburn<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> who about a mile from <hi>Slane,</hi> and eight miles from <hi>Droghedah</hi> met them with two Troops, and three hundred Foot, the grosse of both par<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s kept aloof, there being an hundred chosen out of each for to deliver and receive: all which was punctually observed on both sides.</p>
+            <p>From <hi>Droghedah,</hi> the said ten Ministers, and above 1000 poore besides the poore Souldiers, repaired to <hi>Dublin</hi> where now they are expecting conveniency of passage into <hi>England,</hi> if they may not be relieved there.</p>
+            <p>Sir <hi>Francis Hamilton,</hi> the <hi>Lords Iustices, and Councell of Ireland,</hi> have recommended to the <hi>right Honourable the Lords Commissioners for the Irish affaires,</hi> having for the present listed 100 of his own men under his command in the Army: Hee deserving all encouragement
+<pb n="40" facs="tcp:197453:21"/> and respects both for his prudence and forwardnesse in the publicke service, and his charity to the poor despoiled <hi>Brittish,</hi> whom not only he relieved in his Castle, but laid out great summes for clothing and feeding them in their going away.</p>
+            <p>This is the substance of all the chief passages of the Rebellion in the County of <hi>Cavan,</hi> from the 23 of <hi>October</hi> 1641, untill <hi>June</hi> 15, 1642, passing by Captain <hi>Culmes</hi> attempt for recovering the Castle of <hi>Cloghouter,</hi> with other passages, which with a more full discourse of what hath been formerly but briefly set forth, and the continuati<g ref="char:EOLhyphen"/>on thereof, I refer to what I shall hereafter (God willing) set forth of <hi>the proceedings of the whole warre in</hi> Ireland.</p>
+         </div>
+         <div type="acts">
+            <opener>In the name of the holy Trinitie, the Father, Son, and the holy Ghost, <hi>Amen.</hi>
+            </opener>
+            <head>Acts agreed upon, ordained, and concluded in the generall Congregation held at <hi>Kilkenny,</hi> the <hi>10.11.</hi> and <hi>13.</hi> dayes of May, <hi>1642.</hi> by those Prelates whose names are subscribed; The Proctors of such other Pre<g ref="char:EOLhyphen"/>lates as then were absent, being present together with the Superiours of the Regulars, and many other dignitaries and learned men, aswell in di<g ref="char:EOLhyphen"/>vine, as also in the common law, with divers Pastors and others of the Catholique Clergie of all <hi>Ireland,</hi> whose names are likewise hereafter set downe.</head>
+            <p n="1">1. WHereas the Warre which now in <hi>Ireland,</hi> the Catho<g ref="char:EOLhyphen"/>liques doe maintaine against Sectaries, and chiefly a<g ref="char:EOLhyphen"/>gainst Puritans, for the defence of the Catholique Re<g ref="char:EOLhyphen"/>ligion, for the maintenance of the Prerogative and Royall rights of our gracious King <hi>Charles</hi> for our gracious Queene, so unworthily abused by the Puritans, for the honour, safetie, and health of their royall issue, for to avert and refraine the injuries done unto them, for the conservation of the just, and lawfull safegards, liberties and rights of <hi>Ireland</hi> and lastly for the defence of their owne lives, for<g ref="char:EOLhyphen"/>tunes lands and possessions. Whereas I said this warre is by the
+<pb n="41" facs="tcp:197453:21"/> Catholiques undertaken for the aforesaid causes against unlawfull usurpers, oppressors and their enemies, chiefly Puritans. And that hereof we are enformed aswell by divers and true Remonstrances of divers Provinces, Counties and Noblemen, as also by the unani<g ref="char:EOLhyphen"/>mous consent and agreement of almost the whole Kingdome in this warre and union. We therefore declare that warre openly Cotho<g ref="char:EOLhyphen"/>lique to be lawfull and just, in which warre, if some of the Catho<g ref="char:EOLhyphen"/>liques be found to proceed out of some particular and unjust title, covetousnesse, cruelty, revenge or hatred, or any such unlawfull pri<g ref="char:EOLhyphen"/>vate intentions. We declare them therein grievously to sinne, and therefore worthy to be punished and refrained with Ecclesiasticall censures (if advised thereof) they doe not amend.</p>
+            <p n="2">2. Whereas the adversaries doe spread divers rumours, doe write divers Letters, and under the Kings name doe print Proclamations, which are not the Kings, by which meanes divers plots and dangers may ensue unto our Nation; Wee therefore to stop the way of un<g ref="char:EOLhyphen"/>truth and forgeries of the Politicall adversaries doe will and com<g ref="char:EOLhyphen"/>mand, that no such rumours, Letters, or Proclamations may have place, or beliefe, untill it be knowne in a Nationall Councell, whe<g ref="char:EOLhyphen"/>ther they truly proceeded from the King, left to his owne freedome, and untill the Agents of this Kingdome hereafter to be appointed by a Nationall Councell, have free passage to his Majestie, whereby the Kingdome may be certainly enformed of his Majesties intention and will.</p>
+            <p n="3">3. Whereas no Family, Citie, Common-wealth, much lesse any Kingdome may stand without union and concord, without which this Kingdome for the present standeth in most danger. We thinke it therefore necessary that all Irish Peeres, Magistrates, Noblemen, Cities and Provinces, may be tyed together with the holy bond of Vnion and Concord, and that they frame an oath of Vnion and a<g ref="char:EOLhyphen"/>greement which they shall devoutly and Christianly take, and faith<g ref="char:EOLhyphen"/>fully observe. And for the conservation and exercise of this Vnion, We have thought fit to ordaine the ensuing points.</p>
+            <p n="4">4. We straightly command all our inferiour, aswell Churchmen as Laymen to make no distinction at all between the old and ancient Irish, and no Alienation comparison or differences between Provin<g ref="char:EOLhyphen"/>ces, Cities, Towns, or Families, and lastly, not to begin, or forward
+<pb n="34" facs="tcp:197453:22"/> any emulations or comparisons whatsoever.</p>
+            <p n="5">5. That in every Province of <hi>Ireland</hi> there be a Councell made up, both of Clergy and Nobility in which Councell shall bee so many persons, at least as are Counties in the Province, and out of every City or notable Towne two persons.</p>
+            <p n="6">6. Let one generall Councell of the whole Kingdome be made, both of the Clergy Nobility, Cities, and notable Townes in which Councell there shall be three out of every Province, and out of every City one, or where Cities are not, out of the chiefest Townes. To this Councell the Provinciall Councells shall have subordination, and from thence to it may be appealed, untill this Nationall Coun<g ref="char:EOLhyphen"/>cell have opportunity to sit together; Againe, if any thing of great importance doe occurre, or be conceived in one Province, which by a negative Vote is rejected in the Councell of one Province. Let it be sent to the Councels of other Provinces; except it be such a matter as cannot be delayed, and which doth not pertaine to the Weale publick of the other Provinces.</p>
+            <p n="7">7. Embassage sent from one Province to forraigne Nations shall be held as made from the rest of the Provinces, and the fruit or be<g ref="char:EOLhyphen"/>nefit thereof shall be imparted, and divided between the Provinces and Cities which have more need thereof, chiefly such helpes and fruits, as proceed from the bountifull liberalitie of forraigne Princes states. Prelates or others whatsoever, provided alwayes that the charges and damage be proportionably recompenced.</p>
+            <p n="8">8. If there be any Province which may not conveniently send Embassage from it selfe unto forraigne Nations, let it signifie it to another Province, which may conveniently supply it, and ought in regard of their union to supply it according to the instructions sent from the other Provinces concerning the place, and Princes to which they would have their Embassage employed.</p>
+            <p n="9">9. Let a faithfull Inventory be made in every Province of the murthers, burnings, and other cruelties, which are committed by the Puritan enemies with a cotation of the place, day, cause, man<g ref="char:EOLhyphen"/>ner and persons, and other circumstances subscribed by one of pub<g ref="char:EOLhyphen"/>lick authority.</p>
+            <p n="10">10. In every Parish, let a faithfull and sworne Messenger be ap<g ref="char:EOLhyphen"/>pointed, whereby such cruel<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, and other affaires may bee written
+<pb n="35" facs="tcp:197453:22"/> and sent to the neighbouring places, and likewise from one Province to another; Let such things be written for the comfort, instruction, and caref<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lnesse of the People.</p>
+            <p n="11">11. Great men taken prisoners in one Province, may not be set at liberty for any price, prayers, or exchange, without the consent of the Prelats and Nobility of the other Province united, and let every Province be carefull of the Liberties of such Prisoners as are from the other Provinces, as farre as it conveniently may.</p>
+            <p n="12">12. If any one stubborne or dangerous be found in one Province, County or Towne, Let him be sent to another Province, County or Towne where he may be safely kept, and (with lesse danger, or losse of others) remaine.</p>
+            <p n="13">13. Whosoever shall be declared in one County or Province, ad<g ref="char:EOLhyphen"/>versary or traytour of this cause and country shall likewise be held, and punished in other Counties and Provinces where he shall bee found, and such as receive or favour him, or be his messengers, know<g ref="char:EOLhyphen"/>ing his misdemeanour shall be lyable to such punishment as the traytour himselfe.</p>
+            <p n="14">14. Wee command and ordaine as a maine point pertaining to this Vnion that no Province, County, City, Towne or person what<g ref="char:EOLhyphen"/>soever shall demand peace, or submit himselfe to the enemies with<g ref="char:EOLhyphen"/>out the consent of the generall Councell of the whole Kingdome, and that ender paine of Excommunication to be incurred <hi>ipso facto,</hi> and for further force of this Statute to be observed; Wee will that in every Province a firme oath be taken by the Peeres, Nobility, Corporations, and commonalty of every Province, and thereupon a Publicke and authenticall Instrument be made; And that every Pro<g ref="char:EOLhyphen"/>vince doe send into every other Province, an Instrument subscribed, with the proper hands of such as have taken this oath, for the assu<g ref="char:EOLhyphen"/>rance of their oaths and whosoever shall refuse to take this oath, let him bee held as adversary of the common cause, and of the King<g ref="char:EOLhyphen"/>dome, and let him be punished, as such as hereafter shall be declared, except he be excused for the reasons hereafter to be set downe.</p>
+            <p n="15">15. The ordinaries of every place, The preachers confessors pa<g ref="char:EOLhyphen"/>sh pri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sts and other Churchmen shall indeavour to see perfect peace and charity observed betweene Provinces, Counties, Cities, and families, as the obligation of this vnion requireth</p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="34" facs="tcp:197453:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="35" facs="tcp:197453:23"/>
+            <p n="16">
+               <pb n="44" facs="tcp:197453:24"/>16. Such goods aswell moveable as vnmoveable pertaining to Catholiques as were recovered from the enemyes by this present war shall be restored to their former owners, Provided that such ne<g ref="char:EOLhyphen"/>cessary and resonable charges shall be paid, as the next generall or Provinciall Councell or Committees of the County where the par<g ref="char:EOLhyphen"/>ties dwell, shall decree.</p>
+            <p n="17">17. Whereas diverse persons doe diversly carry themselves to<g ref="char:EOLhyphen"/>wards t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is cause, some with helpe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and supplies doe assist the ad<g ref="char:EOLhyphen"/>versaries others with victualls and armes, others with their advice and authority supporting as it weare the contrary cause, some also as n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers behaving themselve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and others lastly neglecting their oath d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e forsake the Catholiq<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d cause. Wee doe therefore declare and iudge all and every such as forsake this union, doe fight for our enemies accompany them in warr, defend or in any other way assist them as giving them weapons, victuals, councell, or fa<g ref="char:EOLhyphen"/>vour to be excomunicated and by these presents doe excomunicate them; Provided that this present Decree shall be first published in eve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Diocesse resp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctively, and having rec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived admonition before hand whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall supply the treble admonition otherwise requisite, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wee doe hereby declare, so it be made in a place where it may easily come to the knowledge of those whom it toucheth, but as touching the iudgement and punishment of the Newters wee leave it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the ordinaries of every place respectively, so that the ordinaries themselues be not contrary to the iudgement and opinion of this Congregation, in which cause, we Commit power to the Metropo<g ref="char:EOLhyphen"/>litans or Archbishops to proceed against such ordinaries according to the common course of law wherein they are to be very carefull and sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edy, and if the Metropolitans be found heerein carelesse or guil<g ref="char:EOLhyphen"/>ty, let them be lyable to such punishment as is ordained by the holy Canons and let them be accused to the Sea Apostolique.</p>
+            <p n="18">18. Wee ordaine and Decree that all and every such as from the begining of this present warr have invaded the possessions of goods aswell moveable as unmoveable, spirituall, or temporall of any Catholique whether Irish or English, or also of any Irish Pro<g ref="char:EOLhyphen"/>testant being not adversarie of this cause. And doe detaine any such goods shall be Excomunicated as by this present Decree wee doe excomunicate them if admonished they doe not amend and with
+<pb n="45" facs="tcp:197453:24"/> the like censure wee doe bind such as henceforward shall invade or detaine such goodes, and not only them, but also all and every such <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s shall ke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe lands or posessions against publique authority as also such as favour or assist them therein. And we declare involued in this censure all and every of them who directly or indirectly hir<g ref="char:EOLhyphen"/>der or for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id to pay their due rents unto such as have possessed the said lands from the begining of this warr and such likewise as with out the Lycense of such poss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssors doe take or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort rents or equi<g ref="char:EOLhyphen"/>valent p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yment from the tenants of such poss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssors under colour of paying s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uldiers therewith or otherwise</p>
+            <p n="19">19. We command all and every Churchmen aswell secular as regular not to heare the Conffeffions of the aforesaid excom<g ref="char:EOLhyphen"/>municated persons, nor to administer unto them the holy Sacra<g ref="char:EOLhyphen"/>ments under paine of Excommunication <hi>ipso facto.</hi>
+            </p>
+            <p n="20">20. We will and declare all those that murther, dismember, or grievouslly strike, all theeves, unlawfull spoylers, robbers of any goods, extortors, together with all such as favour, receive, or any wayes assist them, to be excommunicated, and so to remaine, untill they compleatly amend and satisfie no lesse then if they were, name<g ref="char:EOLhyphen"/>ly proclaimed, excommunicated, and for satisfaction of such crimes hitherto committed to be enjoyned, wee leave to the discretion of the ordinaries and confessors, how to absolve them.</p>
+            <p n="21">21. Tradesmen for making weapons or powder brought into this Countrey, or hereafter to be brought in, shall be free from all taxa<g ref="char:EOLhyphen"/>tions and customes; as also all Merchants, as shall transport into this Countrey, such wares as are profitable for the Catholique cause, as Armes and Powder, may lawfully traffique without paying any Custome, for commodities brought out of this Kingdome, or trans<g ref="char:EOLhyphen"/>ported hither of that kind, and let this be proclaimed in all Provin<g ref="char:EOLhyphen"/>ces, Cities and Townes.</p>
+            <p n="22">22. Wee thinke it convenient, that in the next naturall Congre<g ref="char:EOLhyphen"/>gation, some be appointed out of the Nobility, and Clergy as Em<g ref="char:EOLhyphen"/>bassadours to be sent in the behalfe of the whole Kingdome, unto the Kings of <hi>France</hi> and <hi>Spaine,</hi> to the Emperour and his Holinesse, and those to be of the Church Prelats, or one of the Nobility and a Lawyer.</p>
+            <p n="23">23. Wee will and ordaine, that Ordinaries, Dignitaries, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd
+<pb n="38" facs="tcp:197453:25"/> other Proprietors of Church livings, with the assistance of the Col<g ref="char:EOLhyphen"/>lonel, or some other prime Gentleman of the County, Barony, or Par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Ordinarie, and Dignitaries, or Proprietors shall ap<g ref="char:EOLhyphen"/>point, doe set unto Tenants, the lands, houses, tenements, and tithes, and other Church livings, and let competent means be appointed for the maintenance of the said O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinaries, Dignataries and Proprietors, and the rest to be appointed for the souldiers untill it bee otherwise ordained.</p>
+            <p n="24">24. Collectors and receivers of the Rents of Church-livings, shall be appointed by the Ordinaries, with the consent of the Pro<g ref="char:EOLhyphen"/>prietors in the presence of the chiefest Gentlemen of every County, Baronry, or Parish r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>spectively.</p>
+            <p n="25">25. The ordinaries and other proprietors of Church livings may take unto themselves the houses, tenements and other Church Goods pertaining unto their respective titles, with obligations to pay propor<g ref="char:EOLhyphen"/>tionable rent unto the Souldiers as aforesaid, or his payment of their owne competent maintenance and lett the houses, tenements, and other Church goodes be taken from the Catholiques, who heretofore had them as tenements or otherwise.</p>
+            <p n="26">26. It is Committed to the will and disposition of the ordinarie whether and when to enter into the Churches and celebrate Masses therein we commande all and every the generall Colonells, Captains and other officers of our Catholique army to whom it appertaineth that they severally punish all transgressers of our aforesaid Command touching Murtherers, Maymers, Strikers, Theeves, Robbers, and if they faile therein we command the parish Priests, Curats or Chap<g ref="char:EOLhyphen"/>lines, respectively to declare them iterdicted and that they shall be excomunicated if they cause not due satisfaction to bee made unto the Common-wealth, and the party offended. And this the Parish Priests or Chaplaines shall observe under paine of Excommunica<g ref="char:EOLhyphen"/>tion of sentence given <hi>ipso facto.</hi>
+            </p>
+            <p n="27">27. To the end that these Acts Propositions, and Ordinances may have more happy successe; We thought it fitting to have recourse un<g ref="char:EOLhyphen"/>to God Almighty by Prayers, Fastings and Alms We therefore will pray and as far as it is needfull do cōmand that every Priest as well Secular, as Regular doe celebrate one Masse a week, and that all Lay men doe fast upon Wednesday, Friday, and Saturday in one weeke,
+<pb n="39" facs="tcp:197453:25"/> and thence forward one day a week, and that upon Wednesday, or Saturday, as long as the Ordinary shall please, and that they pray heartily unto God for the prosperous successe of this our Catholike War, for which they shall gain so many dayes indulgences, as every Prelate shall publish in your severall Diocesse respectively after t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Fast of the aforesaid three days in one Weeke, having first confessed, and received the blessed Sacrament, and bestowed some almes to this effect.</p>
+            <p n="28">28 In every Regiment of Souldiers Let there be appointed at least two Confessors, and one Preacher, to be named by the Ordinaries and by the Superiours of the Regulars, whose competent maynte<g ref="char:EOLhyphen"/>nance we commend and command to every Colonell, in their respe<g ref="char:EOLhyphen"/>ctive Regiments. And to the end that all those Ordinances and Sta<g ref="char:EOLhyphen"/>tutes may effectually be put in execution, we will and decree that all Arch-bishops, Bishops, Apostolicall Vicars and Regular Superiours, aswell here present as absent, may be very serious and carefull of the execution of the aforesaid, as they tender not to incur displeasure, wrath, and revenge, and herewith we charge their Consciences.</p>
+            <p n="29">29 Moreover, We pray and require, all Noblemen, Magistrates, and all other Marshall Commanders, that with their helps and Se<g ref="char:EOLhyphen"/>cular forces, they assist and set forward in execution, the aforesaid Statutes in their severall Precincts respectively as often as it shall be needfull; If in any of the aforesaid Statutes any doubt or difficulty may by chance arise, the explication thereof wee reserve to the Me<g ref="char:EOLhyphen"/>tropolitans in every Province respectively, and to the Bishops in eve<g ref="char:EOLhyphen"/>ry their Diocesse, such of them as are no way contrary to this cause, no other person may presume to expound the aforesaid difficulties.</p>
+            <closer>Haec dicta, acta ordinata &amp; statuta, subscripta erant nominibus se<g ref="char:EOLhyphen"/>quentium Praelatorum. All those Judgments, Sayings, Acts, and Covenants, We submit to the judgment of the See Apostolick.
+<signed>
+                  <list>
+                     <item>
+                        <hi>Hugo Archiepiscopus Armachanus.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Archiepiscopus Casselensis.</hi>
+                     </item>
+                     <item>
+                        <hi>Malachius Archiepiscopus Guamenum.</hi>
+                     </item>
+                     <pb n="48" facs="tcp:197453:26"/>
+                     <item>
+                        <hi>David Episcopus Osorenum.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Batius Episcopus Elphynenum.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Patricius Episcopus Woterferden. &amp; Lysmoren.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Rochus Episcopus Kildaren.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Electus <gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>luanfarten.</hi>
+                     </item>
+                     <item>
+                        <hi>Emerus Electus Dunen. &amp; Conoren,</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Iosephus Everard, Procurator Archiepiscopi Dublinens.</hi>
+                     </item>
+                     <item>
+                        <hi>Doctor Ioannes Creagh Procurator Epsicopus Lymeriten.</hi>
+                     </item>
+                     <item>
+                        <hi>David Bourck &amp; Willielmus O Connell Procurator Episcopi Imolacen.</hi>
+                     </item>
+                     <item>
+                        <hi>Donotus O Tearnan Procurator Episcopi Laonen.</hi>
+                     </item>
+                     <item>
+                        <hi>Doctor Dionysius Hartii Decanus Laonensis.</hi>
+                     </item>
+                     <item>
+                        <hi>Doctor Michael Hacket Vicom. gener. Waterforden.</hi>
+                     </item>
+                     <item>
+                        <hi>Gulielmus Devocer Vic. gener. Fernesen.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Roch Vicar. Generalis Ossoren.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Lucas Archer Abbas Sanctae Crucis.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Anthonius de Rosario Ord. praed. Vicar. pro Provincial.</hi>
+                     </item>
+                     <item>
+                        <hi>Robertus Nugent societat Iesu in Heb.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Thadeus Connoldus Aug. Provinc.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Warenige Decanus Lymlicem.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Patricius Darcye Guardianum Dubliuens.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Thomas Strange Guardianum Waterford.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Joseph Lancton, Prior Kilkenny.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Tho. Tearnon Guard. de Dundalk.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Joannes Reyly Guard Kilkennige.</hi>
+                     </item>
+                     <item>
+                        <hi>Frater Boetius Eganus Guard Buttevant.</hi>
+                     </item>
+                     <item>
+                        <hi>Jordanus Boork Archiedecanus Lymericensis.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
